@@ -14,6 +14,15 @@
  - controllers
  - views
  - test
+
+React / Node apps are made of
+ - queries
+ - mutations
+ - schemas
+ 
+ 
+ 
+ 
  
  
  ----------
